@@ -3,7 +3,7 @@
 No more stuff, just a resource pack to fix or improve the translations of mods that are already no longer supported.
 
 ## Support
-Mainly fix Chinese translation now. But you can also upload the translation of other language if you make sure quality (But encouragement to try), copyright and ingenuity.
+Mainly fix Chinese translation now. But you can also upload the translation of other language if you make sure quality (But encouraged to try.), copyright and ingenuity.
 
 **This means that you cannot copy the translations from another existing project, unless you owned it. **
 
