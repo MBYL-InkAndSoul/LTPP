@@ -1,4 +1,4 @@
-# Legacy-Translation-Patcher-Pack
+# Legacy-Translations-Patcher-Pack
 ## Introduction
 No more stuff, just a resource pack to fix or improve the translations of mods that are already no longer supported.
 
