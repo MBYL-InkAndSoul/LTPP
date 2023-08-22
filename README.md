@@ -5,7 +5,7 @@ No more stuff, just a resource pack to fix or improve the translations of mods t
 ## Support
 Mainly fix Chinese translation now (provide by Ink&amp;Soul). But you can also upload the translation of other language if you make sure quality, ingenuity and copyright.
 
-This means that you can't copy the translation from another existing project, unless you owned it.
+This means that you can't copy the translations from another existing project, unless you owned it.
 
 If you are finding Simplified-Chinese translation, see also: [CFPA](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package).
 
