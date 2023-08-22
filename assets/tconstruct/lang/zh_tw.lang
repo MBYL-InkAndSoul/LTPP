@@ -1,0 +1,12 @@
+# 物品
+## 常規
+item.tconstruct.cast_custom.plate.name=板鑄模
+item.tconstruct.sharpening_kit.name=磨刀石
+
+# 提示訊息/視窗文本
+gui.error.already_has_extratrait=這把工具已有刻紋，它只能被雕刻一次。
+gui.error.single_modifier=%s只允許被使用一次。
+gui.error.craftevent.tool.default=有其它模組禁止了這個物品製作。
+gui.error.craftevent.modifier.default=某些模組禁止了這把工具用這些物品來改造。
+gui.error.craftevent.toolpart.default=某些模組禁止了這個工具部件的製作。
+gui.error.craftevent.replace.default=某些模組禁止了這個工具部件替換。
